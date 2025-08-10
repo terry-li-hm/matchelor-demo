@@ -1,0 +1,11 @@
+{
+  "name": "matchelor-demo",
+  "version": "1.0.0",
+  "description": "Banking intent classification demo frontend",
+  "scripts": {
+    "dev": "echo 'Static site - open index.html'",
+    "build": "echo 'No build required for static site'"
+  },
+  "author": "",
+  "license": "MIT"
+}
